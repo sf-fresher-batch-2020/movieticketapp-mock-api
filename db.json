@@ -2,15 +2,11 @@
     "users": [
 
     ],
-    "accounts": [
+    "logged_in_user": [
 
     ],
-    "transactions": [
+    "movies": [
 
-    ],
-    "payees":[
-        
     ]
-    
 
 }
